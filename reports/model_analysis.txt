@@ -1,0 +1,11 @@
+Graphical Analyses:
+
+Regression Statistics:
+
+Model Evaluation Metrics:
+R-squared Score: 0.01908428939412865
+Mean Absolute Error: 0.10132120148499492
+Mean Squared Error: 0.014852617301313455
+
+Diagnostic Graphics:
+
